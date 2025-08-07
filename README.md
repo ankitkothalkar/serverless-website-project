@@ -29,6 +29,7 @@ The goal of this project was to build a complete, production-ready website solut
 - **AWS CloudWatch:** For monitoring and debugging the Lambda function and API.
 
 ## 📁 Project Structure
+<<<<<<< HEAD
 
 .
 ├── main.tf                 # Main Terraform configuration file
@@ -83,4 +84,5 @@ To deploy this project, you will need to configure your AWS credentials and crea
 
 ##  Contribution
 
-Feel free to open an issue or submit a pull request if you have suggestions for improvem
+Feel free to open an issue or submit a pull request if you have suggestions for improvement
+
