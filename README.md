@@ -2,7 +2,7 @@
 
 This project demonstrates how to deploy a fully serverless, secure, and cost-effective static website with a functional contact form on AWS. The entire infrastructure is provisioned and managed using **Terraform (Infrastructure as Code)**.
 
-## 🚀 Project Overview
+##  Project Overview
 
 The goal of this project was to build a complete, production-ready website solution that is highly available and requires minimal maintenance. The architecture is designed to be scalable and cost-effective, leveraging AWS services to handle everything from hosting to form submissions.
 
